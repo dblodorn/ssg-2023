@@ -1,0 +1,7 @@
+extends includes/_layout.pug
+
+block content
+  article
+    include:markdown-it ./markdown/home.md
+    hr
+    include:markdown-it ./README.md

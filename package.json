@@ -1,0 +1,48 @@
+{
+  "name": "ssg-2023",
+  "version": "0.0.01",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "dev": "webpack serve --mode=development"
+  },
+  "author": "Dain Blodorn",
+  "license": "GNU",
+  "devDependencies": {
+    "@types/node": "^20.5.6",
+    "@types/webpack": "^5.28.2",
+    "clean-webpack-plugin": "^4.0.0",
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^6.2.0",
+    "declaration-bundler-webpack-plugin": "^1.0.3",
+    "file-loader": "^6.2.0",
+    "highlight.js": "^11.9.0",
+    "html-webpack-plugin": "^5.3.2",
+    "jstransformer-markdown-it": "^3.0.0",
+    "markdown-it": "^13.0.2",
+    "markdown-it-loader": "^0.7.0",
+    "markdown-it-sub": "^1.0.0",
+    "markdown-it-sup": "^1.0.0",
+    "mini-css-extract-plugin": "^2.2.2",
+    "normalize-scss": "^7.0.1",
+    "pug": "^3.0.2",
+    "pug-loader": "^2.4.0",
+    "sass": "^1.38.2",
+    "sass-loader": "^12.1.0",
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.2.2",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.0.0",
+    "wepack-cli": "0.0.1-security"
+  },
+  "dependencies": {
+    "@types/matter-js": "^0.19.0",
+    "chalk": "^5.3.0",
+    "matter-js": "^0.19.0",
+    "popmotion": "^11.0.5",
+    "tone": "^14.7.77",
+    "xstate": "^4.38.2"
+  }
+}

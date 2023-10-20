@@ -1,0 +1,45 @@
+h1, .h1 {
+  font-size: $h1-size;
+}
+ 
+h2, .h2 {
+  font-size: $h2-size;
+}
+
+h3, .h3 {
+  font-size: $h3-size;
+}
+
+h4, .h4 { 
+  font-size: $h4-size;
+}
+
+h5, .h5 {
+  font-size: $h5-size;
+}
+
+p, .p {
+  font-size: $p-size;
+  padding-bottom: $single-pad;
+  &:last-child {
+    padding-bottom: 0;
+  }
+}
+
+a {
+  text-decoration: underline;
+}
+
+pre {
+  word-break: normal;
+  word-spacing: normal;
+  tab-size: 4;
+  text-align: left;
+  hyphens: none;
+  font-size: 12px;
+  border-radius: 4px;
+  background-color: rgb(229 231 235 / 1);
+  overflow-x: scroll;
+  width: 100%;
+  padding: 12px;
+}
