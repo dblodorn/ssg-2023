@@ -25,3 +25,16 @@ Webpack powered Static website page generator for modern webmasters.
 
     # Build
     pnpm build
+
+---
+
+### BONUS: Make an html edition on zora.co!
+
+[![Watch the video](https://ipfs.io/ipfs/QmXjRRLxPnedLbXQD2Vy2577rYrSXrJvE1LDD7gVPXD7AJ)](https://www.loom.com/share/b2da6cce4f19479582b9f9ddea84d971)
+
+1. run `pnpm build`
+2. compress the dist folder as a .zip archive
+3. Navigate to [https://zora.co/create](https://zora.co/create)
+4. Connect and Sign.
+5. Drag the zip archive into the file uploader on the left hand column!
+6. Mint it!!!
