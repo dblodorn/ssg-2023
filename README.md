@@ -4,12 +4,12 @@
 Webpack powered Static website page generator for modern webmasters.
 
 - Typescript bundling galore with a bunch of fun libraries pre installed:::
-  - [matter-js](https://brm.io/matter-js/)
-  - [popmotion](https://popmotion.io/)
-  - [tone](https://tonejs.github.io/)
-- [𝒮𝒶𝓈𝓈𝓎 𝓈𝓉𝓎𝓁𝒾𝓃𝑔](https://sass-lang.com/documentation/)
-- [MARKDOWN READY!](https://www.markdownguide.org/)
-- [xstate](https://xstate.js.org/docs/fr/guides/start.html#running-our-machine) [You don't need react?]
+  - [matter-js](https://brm.io/matter-js/){:target="\_blank"}
+  - [popmotion](https://popmotion.io/){:target="\_blank"}
+  - [tone](https://tonejs.github.io/){:target="\_blank"}
+- [𝒮𝒶𝓈𝓈𝓎 𝓈𝓉𝓎𝓁𝒾𝓃𝑔](https://sass-lang.com/documentation/){:target="\_blank"}
+- [MARKDOWN READY!](https://www.markdownguide.org/){:target="\_blank"}
+- [xstate](https://xstate.js.org/docs/fr/guides/start.html#running-our-machine){:target="\_blank"} [You don't need react?]
 
 ---
 
@@ -30,7 +30,9 @@ Webpack powered Static website page generator for modern webmasters.
 
 ### BONUS: Make an html edition on zora.co!
 
-[![Watch the video](https://ipfs.io/ipfs/QmXjRRLxPnedLbXQD2Vy2577rYrSXrJvE1LDD7gVPXD7AJ)](https://www.loom.com/share/b2da6cce4f19479582b9f9ddea84d971)
+**Loom Video Tutorial**
+
+[![Watch the video](https://ipfs.io/ipfs/QmXjRRLxPnedLbXQD2Vy2577rYrSXrJvE1LDD7gVPXD7AJ#video-image)](https://www.loom.com/share/b2da6cce4f19479582b9f9ddea84d971){:target="\_blank"}
 
 1. run `pnpm build`
 2. compress the dist folder as a .zip archive
